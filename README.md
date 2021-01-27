@@ -1,5 +1,5 @@
-## UTM(Unmanned Aircraft System Traffic Management)_Mobile
-Mobile application for the display of a drone flight zone 
+## UTM_Mobile
+Unmanned Aircraft System Traffic Management Mobile application for the display of a drone flight zone 
 
 ## Libraries
 - Google Maps Android API Utility Library
